@@ -1,1 +1,1 @@
-"# Java-Snake-Game" 
+Il s'agit d'un exemple simple de jeu de Snake en utilisant Java et la bibliothèque Swing pour l'interface graphique. Il peut être amélioré en ajoutant des fonctionnalités supplémentaires telles que des scores, des niveaux de difficulté, des sons, etc.
